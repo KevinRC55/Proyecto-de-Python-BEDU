@@ -24,9 +24,23 @@ En el presente proyecto y con el uso del conjunto de datos del **"Registro Nacio
 
 * **¿En qué años han desaparecido más personas?** 
 
-## Equipo 8
+Además, por medio de modelos de Machine Learning se busca predecir la estatura de una persona, ya que posiblemente este sea el dato que se desconoce con mayor frecuencia al realizar un reporte de desaparición.
 
-### Integrantes
+## Dashboard
+
+El producto de nuestro trabajo a lo largo de todo el proceso formativo con BEDU se resume en un Dashboard informativo que se pone a disposición donde es posible visualizar e interactuar con los datos.
+
+![Dashboard](./Dashboard.png)
+
+Link al Dashboard: https://datastudio.google.com/s/lB3rMIWOE3I
+
+## Proyecto ganador del Prototype Day Data Science
+
+Proyecto mejor calificado en el Prototype Day del programa de Data Science de Santander y BEDU.
+
+![Insignia](./Insignia.png)
+
+### Colaboradores
 - Jesús Manuel Jimenez Cardoza (chucho003@hotmail.com)
 - Kevin Martin Rivera Castro (kevinrc.unam@gmail.com)
 - Luis Mateo Patricio Pineda (mateopa@gmail.com)
